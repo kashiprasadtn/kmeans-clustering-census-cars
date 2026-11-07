@@ -1,0 +1,5 @@
+literacy_rate,gender_ratio_f_to_1000m,percent_primary_ed,percent_age_below_29,districts,profile
+0.5261,938.4793,0.1485,0.6343,242,"Low literacy, young"
+0.7113,1002.9231,0.1719,0.5223,156,"High literacy, female-majority"
+0.6811,876.2105,0.1504,0.5764,114,"High literacy, male-skewed"
+0.6548,950.1641,0.226,0.5987,128,"Average literacy, high primary-only share"
