@@ -73,7 +73,7 @@ Each notebook runs in under a minute. The car notebook uses `random_state = 9001
 - **Cars:** four technical columns from the *Car Price Prediction* dataset (Kaggle), derived from the UCI *Automobile* dataset (1985).
 - Both datasets were supplied through upGrad coursework and are included for educational, non-commercial use.
 - The car starter notebook is upGrad course material, kept unchanged. The census notebook extends an upGrad K-Means demo, which is not reproduced. All completed analysis is my own.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
